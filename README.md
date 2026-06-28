@@ -26,7 +26,7 @@ PHPDevManager lets you run multiple local PHP sites side by side — each with i
 ### 1. Download
 
 ```
-git clone https://github.com/YOUR_USERNAME/phpdevmanager
+git clone https://github.com/muradsaifi/PhpDevManager
 cd phpdevmanager
 ```
 
