@@ -1,0 +1,31 @@
+# PHP binaries (downloaded at runtime via option 8)
+php/
+
+# Web server binaries (downloaded at runtime via options 11/12)
+nginx/
+apache24/
+
+# Auto-generated vhost configs (regenerated on every launch)
+conf/vhosts/*.conf
+
+# SSL certificates (generated per-machine)
+conf/ssl/
+
+# Log files
+logs/
+
+# Runtime config (contains machine-specific paths)
+# Remove this line if you want to track your sites in version control
+config.json
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Downloaded archives
+*.zip
+apache.zip
+nginx.zip
+
+# Temp extraction folders
+apache_extract/

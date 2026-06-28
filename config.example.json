@@ -1,0 +1,75 @@
+{
+    "systemPhp": "8.3.31",
+    "sites": [
+        {
+            "name": "nurse.local",
+            "root": "E:\\projects\\nurse\\public",
+            "port": 80,
+            "phpVer": "8.3.31",
+            "server": "Nginx",
+            "ssl": false,
+            "running": false,
+            "fcgiPort": 9000
+        },
+        {
+            "name": "phpmyadmin.local",
+            "root": "E:\\projects\\phpMyAdmin",
+            "port": 80,
+            "phpVer": "8.3.31",
+            "server": "Nginx",
+            "ssl": false,
+            "running": false,
+            "fcgiPort": 9001
+        },
+        {
+            "name": "uni.local",
+            "root": "E:\\projects\\uni",
+            "port": 80,
+            "phpVer": "8.3.31",
+            "server": "Nginx",
+            "ssl": false,
+            "running": false,
+            "fcgiPort": 9002
+        },
+        {
+            "name": "converter.local",
+            "root": "C:\\Users\\Amirawebpix\\Documents\\converter",
+            "port": 80,
+            "phpVer": "8.3.31",
+            "server": "Nginx",
+            "ssl": false,
+            "running": false,
+            "fcgiPort": 9003
+        },
+        {
+            "name": "tools.local",
+            "root": "C:\\Users\\Amirawebpix\\Desktop\\multitool\\public",
+            "port": 80,
+            "phpVer": "8.3.31",
+            "server": "Nginx",
+            "ssl": false,
+            "running": false,
+            "fcgiPort": 9004
+        },
+        {
+            "name": "wbot.local",
+            "root": "C:\\Users\\Amirawebpix\\Downloads\\my-whatsapp-project\\my-project",
+            "port": 80,
+            "phpVer": "8.3.31",
+            "server": "Nginx",
+            "ssl": false,
+            "running": false,
+            "fcgiPort": 9005
+        },
+        {
+            "name": "meka.local",
+            "root": "C:\\Users\\Amirawebpix\\Documents\\mekapay",
+            "port": 80,
+            "phpVer": "8.3.31",
+            "server": "Nginx",
+            "ssl": false,
+            "running": false,
+            "fcgiPort": 9006
+        }
+    ]
+}
